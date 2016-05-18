@@ -1,6 +1,4 @@
 @font-face {
 	font-family: '方正咆哮体';
-	src: url('方正咆哮体.EOT');
-	src: url('方正咆哮体.EOT?#iefix') format('eot'),
-		 url('方正咆哮体.TTF') format('truetype');
+	src: url('方正咆哮体.TTF') format('truetype');
 }
